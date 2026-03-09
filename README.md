@@ -63,7 +63,7 @@
 ---
 
 <p align="center">
-  <i>Chukwudi Derek Anyanwu · Perth, WA · Open to Systems Administrator,  Network Administrator, and Infrastructure Support roles</i>
+  <i>Chuchu Anyanwu · Perth, WA · Open to Systems Administrator,  Network Administrator, and Infrastructure Support roles</i>
 </p>
 
 ## 🎯 Currently Working On
