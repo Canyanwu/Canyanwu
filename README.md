@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Chuchu 👋</h1>
 
 <p align="center">
-  <b>Systems Administrator & Infrastructure Engineer</b><br>
+  <b>Systems & Network Administrator</b><br>
   Building enterprise-grade homelabs · Perth, Western Australia 🇦🇺
 </p>
 
@@ -62,6 +62,10 @@
 
 ---
 
+<p align="center">
+  <i>Chukwudi Derek Anyanwu · Perth, WA · Open to Systems Administrator,  Network Administrator, and Infrastructure Support roles</i>
+</p>
+
 ## 🎯 Currently Working On
 
 ```text
@@ -71,6 +75,4 @@
 🔜 Deploy ZENITH-DC02 (Secondary Domain Controller)
 🔜 GPO security baselines & FGPP via ADAC
 
-<p align="center">
-  <i>Chukwudi Derek Anyanwu · Perth, WA · Open to Systems Administrator, Network Administrator, and Infrastructure Engineer roles</i>
-</p>
+
