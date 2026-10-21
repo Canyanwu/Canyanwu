@@ -22,8 +22,8 @@ Associate Network Engineer in Perth, Western Australia. AGSVA NV1 cleared. I bui
 
 Security+, Network+, AZ-104, AZ-900, ITIL 4 Foundation, ISC2 CC, Jamf Certified Associate. CCNA in progress.
 
-## Other repositories
+## Python
 
-Coursework and data projects from my degree: Python (BattleGame, Hash-Table, Sudoku-Solver), Oracle SQL (Database), and Jupyter notebooks (Employee-Exit-Survey, Exploratory-Project).
+**[BattleGame](https://github.com/Canyanwu/BattleGame)** is a two player army battle game in Python. It uses classes with inheritance, stack and queue abstract data types, and unit tests.
 
 LinkedIn: [chuchuanyanwu](https://www.linkedin.com/in/chuchuanyanwu)
